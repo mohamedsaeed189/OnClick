@@ -1,6 +1,6 @@
-# Flash Online Learning System
+# OnClick Online Learning System
 
-Flash is a complete Online Learning System through which individuals can attend pre-recorded
+OnClick is a complete Online Learning System through which individuals can attend pre-recorded
 courses online, solve their questions, and get certificates of completion. 
 
 ## Motivation
@@ -445,7 +445,7 @@ const getCurrencyGuest=(req, res) => {
 
 ## Installation
 
-* Clone this repository [here](https://github.com/Advanced-Computer-Lab-2022/Flash).
+* Clone this repository [here](https://github.com/mohamedsaeed189/OnClick).
 * The main branch is the most stable branch at any given time, ensure you're working from it.
 * Open  terminal  & cd backend and run npm install to install all dependencies
 * Open new terminal &  cd frontend and run npm install --save --legacy-peer-deps to install all dependencies
